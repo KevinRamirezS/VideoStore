@@ -1,0 +1,13 @@
+package TiendaInformacionVideoJuegos;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TiendaInformacionVideoJuegosApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TiendaInformacionVideoJuegosApplication.class, args);
+	}
+
+}
